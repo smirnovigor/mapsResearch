@@ -1,0 +1,26 @@
+<h1>This is the example for Google Map</h1>
+
+<div class="row margin-20">
+    <div class="col-lg-1">
+        <button class="btn btn-default" ng-class="{'btn-info':isFindMe}" ng-click="toggleFindMe()">
+            <img width="36" height="40" src="./img/street-view-64.png"/>
+        </button>
+    </div>
+
+    <div class="col-lg-9">
+        <div id="searchBranch">
+            <input type="text" ng-model="searchedText" placeholder="Searching by anything ..." typeahead-on-select="searchSelect($item, $model, $label)"
+                   typeahead="name as snif.shemSnif for snif in snifim | filter:$viewValue | limitTo:8" class="form-control input-lg">
+        </div>
+    </div>
+
+    <div class="col-lg-1">
+        <span class="btn btn-primary btn-lg">
+            <i class="glyphicon glyphicon-search"/>
+        </span>
+    </div>
+</div>
+
+<div class="row">
+    <goo-maps find-me="isFindMe" markers="snifim" selected="selected" template-name="infoWindowTemplate.html" fire-street-view="fireStreetView"/>
+</div>
