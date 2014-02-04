@@ -1,5 +1,5 @@
 ## Web maps frameworks research 
-(based on angular-seed )
+based on angular-seed
 
 ### Running the app during development
 
