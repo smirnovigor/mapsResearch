@@ -1,3 +1,12 @@
-# Web maps frameworks research (based on angular-seed )
+## Web maps frameworks research 
+(based on angular-seed )
 
-To start the server run `server\server.js`
+### Running the app during development
+
+You can pick one of these options:
+
+* serve this repository with your webserver
+* install node.js and run `server\server.js`
+
+Then navigate your browser to `http://localhost:<port>/app/index.html` to see the app running in
+your browser.
