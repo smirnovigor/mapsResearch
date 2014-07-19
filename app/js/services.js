@@ -15,7 +15,7 @@ angular.module('myApp.services', [])
         return {
             getSnifim: function (cb, error_cb) {
 
-                $http({method: 'GET', url: 'http://localhost:8000/server/data/BranchListSummary.json'})
+                $http({method: 'GET', url: 'http://smirnovigor.github.io/mapsResearch/server/data/BranchListSummary.json'})
                     .success(cb)
                     .error(error_cb);
             },
@@ -26,7 +26,7 @@ angular.module('myApp.services', [])
                     return;
                 }
 
-                $http({method: 'GET', url: 'http://localhost:8000/server/data/BranchDetails.json'})
+                $http({method: 'GET', url: 'http://smirnovigor.github.io/mapsResearch/server/data/BranchDetails.json'})
                     .success(cb)
                     .error(error_cb);
             }
