@@ -5,6 +5,8 @@ Small project, based on angular-seed, to compare existing maps frameworks. Frame
 - Mapquest
 - Leaflet
 - ESRI(ArcGIS)
+ 
+Live demo look [here](http://smirnovigor.github.io/mapsResearch/app/index.html)
 
 ### Running the app during development
 
