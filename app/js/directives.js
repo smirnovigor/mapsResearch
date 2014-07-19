@@ -213,7 +213,7 @@ angular.module('myApp.directives', [])
                                         icon: './img/street-view-48.png'
                                     });
 
-                                    if (scope.selected) {
+                                    if (scope.selected && scope.selected.latitude && scope.selected.longitude) {
                                         showDirection(scope.selected);
                                     }
                                     else {

@@ -2,19 +2,319 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51108bd6-cf81-4182-9b58-282e9c94c5c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mapquest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/openLayer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/openlayersMap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styleT.css" />
-      <change type="MOVED" beforePath="C:\Users\blackcat\WORK\angular\maps-R-and-D\app\partials\openstreetMap.html" afterPath="$PROJECT_DIR$/app/partials/mapquestMap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\css\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\esri.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\findMe.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\goo.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\img\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\img\findMeMarkerBaby.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\index-async.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\index-async.html.template" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\leaflet.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-animate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-animate.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-cookies.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-cookies.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-loader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-loader.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-resource.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-route.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-route.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-sanitize.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-touch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-touch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular-touch.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\errors.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_af-na.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_af-za.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_af.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_am-et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_am.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-001.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-ae.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-bh.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-dz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-eg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-iq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-jo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-kw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-lb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-ly.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-ma.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-om.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-qa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-sa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-sd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-sy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-tn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar-ye.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_bg-bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_bn-bd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_bn-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_bn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ca-ad.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ca-es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_cs-cz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_da-dk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_da.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de-at.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de-be.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de-de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de-li.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de-lu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_el-cy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_el-gr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-as.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-bb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-be.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-bm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-bw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-bz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-dsrt-us.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-dsrt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-fm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-gu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-gy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-iso.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-jm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-mh.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-mp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-mt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-mu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-na.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-nz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-pk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-pr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-pw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-sg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-tc.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-tt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-um.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-us.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-vg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-vi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-za.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en-zw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-419.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-ar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-bo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-cl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-co.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-cr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-do.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-ea.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-ec.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-gq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-gt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-hn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-ic.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-mx.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-ni.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-pa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-pe.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-pr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-py.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-sv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-us.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-uy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es-ve.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_et-ee.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_eu-es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_eu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fa-af.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fa-ir.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fi-fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fil-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fil.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-be.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-bf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-bi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-bj.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-bl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-cd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-cf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-cg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-ci.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-cm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-dj.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-ga.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-gf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-gn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-gp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-gq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-km.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-lu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-mc.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-mf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-mg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-ml.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-mq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-ne.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-re.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr-yt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_gl-es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_gl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_gsw-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_gsw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_gu-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_gu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_he-il.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_hi-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_hi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_hr-hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_hu-hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_id-id.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_id.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_is-is.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_is.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_it-it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_it-sm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_iw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ja-jp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ja.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_kn-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_kn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ko-kr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ko.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ln-cd.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ln.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_lt-lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_lv-lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ml-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ml.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_mr-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_mr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ms-my.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ms.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_mt-mt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_mt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_nl-cw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_nl-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_nl-sx.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_no.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_or-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_or.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_pl-pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_pt-pt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_pt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ro-ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ru-ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sk-sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sl-si.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sq-al.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sq.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sr-cyrl-rs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sr-latn-rs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sv-se.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sw-tz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_sw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ta-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ta.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_te-in.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_te.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_th-th.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_th.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_tl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_tr-tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_uk-ua.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ur-pk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_ur.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_vi-vn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_vi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zh-hans-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zh-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zh.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zu-za.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\i18n\angular-locale_zu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\version.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\lib\angular\version.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\mapquest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\openLayer.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\partials\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\app\styleT.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\config\karma-e2e.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\config\karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\logs\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\e2e-test.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\e2e-test.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\test-all.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\test.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\test.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\update-angular.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\scripts\watchr.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\e2e\runner.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\e2e\scenarios.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\lib\angular\angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\lib\angular\angular-scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\lib\angular\version.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\unit\controllersSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\unit\directivesSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\unit\filtersSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\blackcat\WORK\angular\mapsResearch\test\unit\servicesSpec.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/compare.html" afterPath="$PROJECT_DIR$/app/partials/compare.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/directives.js" afterPath="$PROJECT_DIR$/app/js/directives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goo-maps.iws" />
@@ -38,68 +338,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="compare.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5352" max-vertical-offset="6240">
-              <caret line="232" column="287" selection-start-line="232" selection-start-column="287" selection-end-line="232" selection-end-column="287" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="openlayersMap.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="208">
+            <state vertical-scroll-proportion="-1.4857143" vertical-offset="0" max-vertical-offset="208">
               <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="findMeMarker.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/findMeMarker.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map-Marker-Marker-Outside-Azure-icon-32.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Azure-icon-32.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map-Marker-Marker-Outside-Azure-icon-48.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Azure-icon-48.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map-Marker-Marker-Outside-Chartreuse-icon-32.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Chartreuse-icon-32.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map-Marker-Marker-Outside-Chartreuse-icon-48.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Chartreuse-icon-48.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="street-view-48.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/street-view-48.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="street-view-64.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/img/street-view-64.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="directives.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/directives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5234708" vertical-offset="6418" max-vertical-offset="12142">
-              <caret line="261" column="24" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.4169381" vertical-offset="5074" max-vertical-offset="12142">
+              <caret line="205" column="38" selection-start-line="205" selection-start-column="38" selection-end-line="205" selection-end-column="38" />
               <folding>
-                <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
-                <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
-                <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
-                <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
-                <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
+                <marker date="1405769311778" expanded="true" signature="1162:1176" placeholder="..." />
+                <marker date="1405769311778" expanded="true" signature="12009:12023" placeholder="..." />
+                <marker date="1405769311778" expanded="true" signature="13329:13343" placeholder="..." />
+                <marker date="1405769311778" expanded="true" signature="15073:15087" placeholder="..." />
+                <marker date="1405769311778" expanded="true" signature="18604:18618" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="openLayer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/openLayer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1352" max-vertical-offset="1690">
-              <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3848">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styleT.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styleT.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="14144" max-vertical-offset="14300">
-              <caret line="544" column="1" selection-start-line="544" selection-start-column="1" selection-end-line="544" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -107,28 +416,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1132" max-vertical-offset="2106">
+            <state vertical-scroll-proportion="2.4571428" vertical-offset="1438" max-vertical-offset="2106">
               <caret line="52" column="40" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="googleMap.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="806">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2002" max-vertical-offset="2210">
-              <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -170,10 +459,10 @@
         <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/styleT.css" />
         <option value="$PROJECT_DIR$/app/openLayer.html" />
-        <option value="$PROJECT_DIR$/app/js/directives.js" />
         <option value="$PROJECT_DIR$/app/css/app.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/partials/compare.html" />
+        <option value="$PROJECT_DIR$/app/js/directives.js" />
       </list>
     </option>
   </component>
@@ -213,27 +502,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maps-R-and-D" />
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maps-R-and-D" />
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -243,11 +532,73 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maps-R-and-D" />
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -256,6 +607,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsResearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -283,14 +670,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -301,10 +680,16 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -314,8 +699,10 @@
       <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -348,10 +735,10 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2065678" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2065678" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18286656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18286656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -359,12 +746,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -401,26 +788,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1874" max-vertical-offset="2860">
           <caret line="88" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="12009:12023" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="13329:13343" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="15073:15087" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="18604:18618" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/findMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="962" max-vertical-offset="2236">
-          <caret line="37" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/goo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="884">
-          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -480,26 +853,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="968" max-vertical-offset="1950">
           <caret line="46" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="12009:12023" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="13329:13343" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="15073:15087" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="18604:18618" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/findMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="2236">
-          <caret line="49" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/goo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="884">
-          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -559,19 +918,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1222">
           <caret line="30" column="67" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="12009:12023" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="13329:13343" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="15073:15087" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="18604:18618" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/goo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="884">
-          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -593,20 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
           <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/goo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="884">
-          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/findMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="832" max-vertical-offset="2236">
-          <caret line="46" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -642,20 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="312">
           <caret line="3" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/esri.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1222">
-          <caret line="20" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/leaflet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1248">
-          <caret line="6" column="77" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -701,65 +1025,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/mapquest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.742857" vertical-offset="0" max-vertical-offset="1300">
-          <caret line="36" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="208">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3848">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styleT.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="14144" max-vertical-offset="14300">
-          <caret line="544" column="1" selection-start-line="544" selection-start-column="1" selection-end-line="544" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/openLayer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1352" max-vertical-offset="1690">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2002" max-vertical-offset="2210">
           <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1132" max-vertical-offset="2106">
-          <caret line="52" column="40" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5352" max-vertical-offset="6240">
-          <caret line="232" column="287" selection-start-line="232" selection-start-column="287" selection-end-line="232" selection-end-column="287" />
           <folding />
         </state>
       </provider>
@@ -772,16 +1041,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4571428" vertical-offset="1438" max-vertical-offset="2106">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38582677" vertical-offset="5605" max-vertical-offset="6240">
+          <caret line="225" column="80" selection-start-line="225" selection-start-column="80" selection-end-line="225" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4857143" vertical-offset="0" max-vertical-offset="208">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Azure-icon-32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Azure-icon-48.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Chartreuse-icon-32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/Map-Marker-Marker-Outside-Chartreuse-icon-48.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/street-view-48.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/street-view-64.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/findMeMarker.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5234708" vertical-offset="6418" max-vertical-offset="12142">
-          <caret line="261" column="24" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.4169381" vertical-offset="5074" max-vertical-offset="12142">
+          <caret line="205" column="38" selection-start-line="205" selection-start-column="38" selection-end-line="205" selection-end-column="38" />
           <folding>
-            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
-            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="12009:12023" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="13329:13343" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="15073:15087" placeholder="..." />
+            <marker date="1405769311778" expanded="true" signature="18604:18618" placeholder="..." />
           </folding>
         </state>
       </provider>
