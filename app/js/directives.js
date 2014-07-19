@@ -5,9 +5,12 @@
 
 angular.module('myApp.directives', [])
 
-    .directive('menuToggle', [function () {
+    .directive('menuToggle', ['$location', function ($location) {
 
         return function (scope, elm, attrs) {
+
+            //activate current section menu
+            elm.find('li a[href$="' + $location.path() + '"]').parent().addClass('active');
 
             var liElems = elm.find('li');
 
@@ -34,7 +37,7 @@ angular.module('myApp.directives', [])
                     templateName: '@'
                 },
                 replace: true,
-                template: '<div id="esriMapsWrapper" style="height: 600px;"></div>',
+                template: '<div id="gooMapsWrapper" style="height: 600px;"></div>',
                 link: function (scope, elem, attrs) {
 
 
@@ -83,10 +86,10 @@ angular.module('myApp.directives', [])
                     function selectSelected() {
 
                         //FIXME: somehow selected come undefined
-                        if(typeof scope.selected === 'undefined' ||
+                        if (typeof scope.selected === 'undefined' ||
                             typeof scope.selected.latitude === 'undefined' ||
-                            typeof scope.selected.longitude === 'undefined'){
-                                console.error('igor: scope.selected is undefined');
+                            typeof scope.selected.longitude === 'undefined') {
+                            console.error('igor: scope.selected is undefined');
                             return;
                         }
 
@@ -168,7 +171,7 @@ angular.module('myApp.directives', [])
                         google.maps.event.clearInstanceListeners(scope.infoWindow);
 
                         //on close info window, set selected to null
-                        google.maps.event.addListener(scope.infoWindow, 'closeclick', function(){
+                        google.maps.event.addListener(scope.infoWindow, 'closeclick', function () {
                             scope.selected = null;
                         })
                     }
@@ -210,10 +213,10 @@ angular.module('myApp.directives', [])
                                         icon: './img/street-view-48.png'
                                     });
 
-                                    if(scope.selected){
+                                    if (scope.selected) {
                                         showDirection(scope.selected);
                                     }
-                                    else{
+                                    else {
                                         scope.map.setCenter(scope.findMeMarker.getPosition());
                                         scope.map.setZoom(FIND_ME_DEFAULT_ZOOM);
                                     }
@@ -282,7 +285,7 @@ angular.module('myApp.directives', [])
                     dojo.require("esri.dijit.LocateButton");
 
                     //initialize map
-                    dojo.ready(function(){
+                    dojo.ready(function () {
                         var map = new esri.Map(elem[0], mapOptions);
 
                         var geoLocate = new esri.dijit.map({
@@ -336,6 +339,122 @@ angular.module('myApp.directives', [])
                     }
 
                     map.on('click', onMapClick);
+                }
+            }
+        }])
+    .directive("openLayersMaps", ['TLV_COORDINATES', 'DEFAULT_ZOOM', 'FIND_ME_DEFAULT_ZOOM',
+        function (TLV_COORDINATES, DEFAULT_ZOOM, FIND_ME_DEFAULT_ZOOM) {
+
+            return {
+                restrict: 'E',
+                priority: 10,
+                scope: {
+                    findMe: '=',
+                    markers: '=',
+                    selected: '='
+                },
+                replace: true,
+                template: '<div id="openLayersWrapper" style="height: 600px;"></div>',
+                link: function (scope, elem, attrs) {
+
+//                    var map = new OpenLayers.Map('openLayersWrapper');
+//
+//                    map.addLayer(new OpenLayers.Layer.OSM());
+//
+//                    var lonLat = new OpenLayers.LonLat(TLV_COORDINATES.longitude, TLV_COORDINATES.latitude)
+//                        .transform(
+//                            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+//                            map.getProjectionObject() // to Spherical Mercator Projection
+//                        );
+//
+//                    var markers = new OpenLayers.Layer.Markers("Markers");
+//                    map.addLayer(markers);
+//
+//                    var size = new OpenLayers.Size(32,32);
+//                    var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);
+//                    var icon = new OpenLayers.Icon('./img/Map-Marker-Marker-Outside-Azure-icon-32.png',size,offset);
+//
+//                    markers.addMarker(new OpenLayers.Marker(lonLat), icon);
+//
+//                    map.setCenter(lonLat, DEFAULT_ZOOM);
+
+                        var map = new OpenLayers.Map('openLayersWrapper');
+
+                        map.addLayer(new OpenLayers.Layer.OSM());
+
+                        var lonLat = new OpenLayers.LonLat(TLV_COORDINATES.longitude, TLV_COORDINATES.latitude)
+                            .transform(
+                                new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                                map.getProjectionObject() // to Spherical Mercator Projection
+                            );
+
+
+
+                        var markers = new OpenLayers.Layer.Markers( "Markers" );
+                        map.addLayer(markers);
+
+                        var marker = new OpenLayers.Marker();
+                        var size = new OpenLayers.Size(32,32);
+                        var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);
+                        var icon = new OpenLayers.Icon('./img/Map-Marker-Marker-Outside-Azure-icon-32.png',size,offset);
+                        marker.icon = icon;
+                        marker.lonlat = lonLat;
+                        markers.addMarker(marker);
+
+                        map.setCenter(lonLat, DEFAULT_ZOOM);
+
+//                        var halfIcon = icon.clone();
+//                        markers.addMarker(new OpenLayers.Marker(new OpenLayers.LonLat(0,45),halfIcon));
+//
+//                        var marker = new OpenLayers.Marker(new OpenLayers.LonLat(90,10),icon.clone());
+//                        marker.setOpacity(0.2);
+//                        marker.events.register('mousedown', marker, function(evt) { alert(this.icon.url); OpenLayers.Event.stop(evt); });
+//                        markers.addMarker(marker);
+//                        map.addControl(new OpenLayers.Control.LayerSwitcher());
+                        //map.zoomToMaxExtent();
+
+//                        halfIcon.setOpacity(0.5);
+                }
+            }
+        }])
+    .directive("mapquestMaps", ['TLV_COORDINATES', 'DEFAULT_ZOOM', 'FIND_ME_DEFAULT_ZOOM',
+        function (TLV_COORDINATES, DEFAULT_ZOOM, FIND_ME_DEFAULT_ZOOM) {
+
+            return {
+                restrict: 'E',
+                priority: 10,
+                scope: {
+                    findMe: '=',
+                    markers: '=',
+                    selected: '='
+                },
+                replace: true,
+                template: '<div id="mapquestMapsWrapper" style="height: 600px;"></div>',
+                link: function (scope, elem, attrs) {
+
+                    /*Create an object for options*/
+                    var mapOptions = {
+                        elt: elem[0], /*ID of element on the page where you want the map added*/
+                        zoom: DEFAULT_ZOOM, /*initial zoom level of map*/
+                        latLng: {lat: TLV_COORDINATES.latitude, lng: TLV_COORDINATES.longitude}, /*center of map in latitude/longitude*/
+                        mtype: 'osm'                                /*map type (osm)*/
+                    };
+
+                    /*Construct an instance of MQA.TileMap with the options object*/
+                    window.map = new MQA.TileMap(mapOptions);
+
+                    /*Using the MQA.Poi constructor*/
+                    var info = new MQA.Poi({lat: TLV_COORDINATES.latitude, lng: TLV_COORDINATES.longitude});
+
+                    /*Sets the rollover content of the POI.*/
+                    info.setRolloverContent('Hello, your are here, TLV');
+
+                    /*Sets the InfoWindow contents for the POI. By default when the POI receives a mouseclick
+                     event, the InfoWindow will be displayed with the HTML passed in to MQA.POI.setInfoContentHTML method.*/
+                    info.setInfoContentHTML('InfoWindow Content for Tel Aviv, TLV');
+
+                    /*This will add the POI to the map in the map's default shape collection.*/
+                    map.addShape(info);
                 }
             }
         }]);

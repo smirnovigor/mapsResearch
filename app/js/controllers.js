@@ -87,7 +87,10 @@ angular.module('myApp.controllers', [])
             $modalInstance.close();
         };
     }])
-    .controller('OpenstreetMapCtrl', [function () {
+    .controller('OpenlayersMapCtrl', [function () {
+
+    }])
+    .controller('MapquestMapCtrl', [function () {
 
     }])
     .controller('LeafletMapCtrl', [function () {

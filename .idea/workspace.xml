@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51108bd6-cf81-4182-9b58-282e9c94c5c8" name="Default" comment="" />
+    <list default="true" id="51108bd6-cf81-4182-9b58-282e9c94c5c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mapquest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/openLayer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/openlayersMap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styleT.css" />
+      <change type="MOVED" beforePath="C:\Users\blackcat\WORK\angular\maps-R-and-D\app\partials\openstreetMap.html" afterPath="$PROJECT_DIR$/app/partials/mapquestMap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/compare.html" afterPath="$PROJECT_DIR$/app/partials/compare.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/directives.js" afterPath="$PROJECT_DIR$/app/js/directives.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="goo-maps.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +38,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="googleMap.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
+      <file leaf-file-name="compare.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="837" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="598" max-vertical-offset="806">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5352" max-vertical-offset="6240">
+              <caret line="232" column="287" selection-start-line="232" selection-start-column="287" selection-end-line="232" selection-end-column="287" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="openlayersMap.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="208">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -35,29 +61,44 @@
       <file leaf-file-name="directives.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/directives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="341" column="0" selection-start="14369" selection-end="14369" vertical-scroll-proportion="1.4503402" vertical-offset="7800" max-vertical-offset="9048">
+            <state vertical-scroll-proportion="0.5234708" vertical-offset="6418" max-vertical-offset="12142">
+              <caret line="261" column="24" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="24" />
               <folding>
-                <marker date="1391443863243" expanded="false" signature="1004:1018" placeholder="..." />
-                <marker date="1391443863243" expanded="false" signature="11793:11807" placeholder="..." />
-                <marker date="1391443863243" expanded="false" signature="13111:13125" placeholder="..." />
+                <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
+                <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
+                <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
+                <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
+                <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leaflet.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/leaflet.html">
+      <file leaf-file-name="openLayer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/openLayer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="77" selection-start="154" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1248">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1352" max-vertical-offset="1690">
+              <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="esri.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/esri.html">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="34" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1222">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3848">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styleT.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styleT.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="14144" max-vertical-offset="14300">
+              <caret line="544" column="1" selection-start-line="544" selection-start-column="1" selection-end-line="544" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -66,43 +107,18 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="73" selection-start="2683" selection-end="2683" vertical-scroll-proportion="0.0" vertical-offset="1025" max-vertical-offset="1950">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1132" max-vertical-offset="2106">
+              <caret line="52" column="40" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leafletMap.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/leafletMap.html">
+      <file leaf-file-name="googleMap.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="234">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="esriMap.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/esriMap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="312">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compare.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="24" selection-start="3021" selection-end="3021" vertical-scroll-proportion="0.0" vertical-offset="2392" max-vertical-offset="2756">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="806">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -111,7 +127,8 @@
       <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="0" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="1534" max-vertical-offset="1794">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2002" max-vertical-offset="2210">
+              <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -123,6 +140,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -137,16 +157,23 @@
         <option value="$PROJECT_DIR$/app/js/services.js" />
         <option value="$PROJECT_DIR$/server/data/BranchDetails.json" />
         <option value="$PROJECT_DIR$/app/partials/googleMap.html" />
-        <option value="$PROJECT_DIR$/app/css/app.css" />
         <option value="$PROJECT_DIR$/app/partials/esriMap.html" />
-        <option value="$PROJECT_DIR$/app/js/app.js" />
-        <option value="$PROJECT_DIR$/app/partials/compare.html" />
-        <option value="$PROJECT_DIR$/app/js/controllers.js" />
         <option value="$PROJECT_DIR$/app/esri.html" />
         <option value="$PROJECT_DIR$/app/leaflet.html" />
         <option value="$PROJECT_DIR$/app/partials/leafletMap.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/mapquest.html" />
+        <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/app/partials/openlayersMap.html" />
+        <option value="$PROJECT_DIR$/app/partials/mapquestMap.html" />
+        <option value="$PROJECT_DIR$/app/js/controllers.js" />
+        <option value="$PROJECT_DIR$/app/style.css" />
+        <option value="$PROJECT_DIR$/app/styleT.css" />
+        <option value="$PROJECT_DIR$/app/openLayer.html" />
         <option value="$PROJECT_DIR$/app/js/directives.js" />
+        <option value="$PROJECT_DIR$/app/css/app.css" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/partials/compare.html" />
       </list>
     </option>
   </component>
@@ -154,9 +181,9 @@
     <option name="x" value="65" />
     <option name="y" value="-9" />
     <option name="width" value="1864" />
-    <option name="height" value="1098" />
+    <option name="height" value="1092" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -170,7 +197,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -182,7 +209,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,7 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="maps-R-and-D" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -207,7 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="maps-R-and-D" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -221,25 +247,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
+              <option name="myItemId" value="maps-R-and-D" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -251,26 +259,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goo-maps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,6 +271,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -309,60 +301,77 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="51108bd6-cf81-4182-9b58-282e9c94c5c8" name="Default" comment="" />
       <created>1390380062179</created>
       <updated>1390380062179</updated>
     </task>
+    <task id="LOCAL-00001" summary="test webstorm">
+      <created>1391502506278</created>
+      <updated>1391502506278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-9" width="1864" height="1098" extended-state="0" />
+    <frame x="65" y="-9" width="1864" height="1092" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2068607" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2065678" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24986301" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18286656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -373,330 +382,406 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="test webstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="test webstorm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/js/services.js">
+    <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="499" selection-end="1854" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1144" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1586">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="1" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="1014">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="234">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/openstreetMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="6" selection-start="2774" selection-end="2774" vertical-scroll-proportion="0.0" vertical-offset="1874" max-vertical-offset="2860">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1874" max-vertical-offset="2860">
+          <caret line="88" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1391443863243" expanded="false" signature="1004:1018" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="11793:11807" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="13111:13125" placeholder="..." />
+            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/findMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="69" selection-start="1360" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="962" max-vertical-offset="2236" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="962" max-vertical-offset="2236">
+          <caret line="37" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/goo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="842" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="884" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="884">
+          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="499" selection-end="1854" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1144" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1144">
+          <caret line="17" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1586">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1586">
+          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="1" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="1014">
+        <state vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="1014">
+          <caret line="33" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/openstreetMap.html">
+    <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="23" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="968" max-vertical-offset="1950">
+        <state vertical-scroll-proportion="0.0" vertical-offset="968" max-vertical-offset="1950">
+          <caret line="46" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1391443863243" expanded="false" signature="1004:1018" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="11793:11807" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="13111:13125" placeholder="..." />
+            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/findMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="19" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="2236" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="2236">
+          <caret line="49" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/goo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="842" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="884" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="884">
+          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1664">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1664">
+          <caret line="8" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="1" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="1014">
+        <state vertical-scroll-proportion="0.0" vertical-offset="858" max-vertical-offset="1014">
+          <caret line="33" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="117" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="286">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="286">
+          <caret line="4" column="117" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/openstreetMap.html">
+    <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="67" selection-start="732" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1222">
+        <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1222">
+          <caret line="30" column="67" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1391443863243" expanded="false" signature="1004:1018" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="11793:11807" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="13111:13125" placeholder="..." />
+            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/goo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="842" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="884" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="884">
+          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="572">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="416">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/goo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="842" selection-end="842" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="884" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="884">
+          <caret line="22" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/findMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="37" selection-start="1695" selection-end="1698" vertical-scroll-proportion="0.0" vertical-offset="832" max-vertical-offset="2236" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="832" max-vertical-offset="2236">
+          <caret line="46" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="21" selection-start="2669" selection-end="2669" vertical-scroll-proportion="1.4475374" vertical-offset="1352" max-vertical-offset="7020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/openstreetMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="43" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="899" />
+        <state vertical-scroll-proportion="1.4475374" vertical-offset="1352" max-vertical-offset="7020">
+          <caret line="104" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/data/BranchListSummary.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1345" selection-start="1345" selection-end="1345" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="156" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="156">
+          <caret line="0" column="1345" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/filters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="27" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="1040" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/data/BranchDetails.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="329" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="329" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/esriMap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="312">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="1534" max-vertical-offset="1794">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="108" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2106" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="899">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="24" selection-start="3021" selection-end="3021" vertical-scroll-proportion="0.0" vertical-offset="1757" max-vertical-offset="2756">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="837" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="598" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/leafletMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="234">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="312">
+          <caret line="3" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/esri.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="34" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1222">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1222">
+          <caret line="20" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/leaflet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="77" selection-start="154" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1248">
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="1248">
+          <caret line="6" column="77" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.44" vertical-offset="0" max-vertical-offset="442">
+          <caret line="11" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="1040">
+          <caret line="8" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/leafletMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4857143" vertical-offset="0" max-vertical-offset="234">
+          <caret line="2" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2036" max-vertical-offset="2834">
+          <caret line="92" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/mapquestMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4857143" vertical-offset="0" max-vertical-offset="208">
+          <caret line="2" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="2132">
+          <caret line="14" column="121" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mapquest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.742857" vertical-offset="0" max-vertical-offset="1300">
+          <caret line="36" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/openlayersMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="208">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3848">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styleT.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="14144" max-vertical-offset="14300">
+          <caret line="544" column="1" selection-start-line="544" selection-start-column="1" selection-end-line="544" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/openLayer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1352" max-vertical-offset="1690">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2002" max-vertical-offset="2210">
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="73" selection-start="2683" selection-end="2683" vertical-scroll-proportion="0.0" vertical-offset="1025" max-vertical-offset="1950">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1132" max-vertical-offset="2106">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/compare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5352" max-vertical-offset="6240">
+          <caret line="232" column="287" selection-start-line="232" selection-start-column="287" selection-end-line="232" selection-end-column="287" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/googleMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="806">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="0" selection-start="14369" selection-end="14369" vertical-scroll-proportion="1.4503402" vertical-offset="7800" max-vertical-offset="9048">
+        <state vertical-scroll-proportion="0.5234708" vertical-offset="6418" max-vertical-offset="12142">
+          <caret line="261" column="24" selection-start-line="261" selection-start-column="16" selection-end-line="261" selection-end-column="24" />
           <folding>
-            <marker date="1391443863243" expanded="false" signature="1004:1018" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="11793:11807" placeholder="..." />
-            <marker date="1391443863243" expanded="false" signature="13111:13125" placeholder="..." />
+            <marker date="1391610346984" expanded="true" signature="1162:1176" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="11954:11968" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="13274:13288" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="15018:15032" placeholder="..." />
+            <marker date="1391610346984" expanded="false" signature="18549:18563" placeholder="..." />
           </folding>
         </state>
       </provider>

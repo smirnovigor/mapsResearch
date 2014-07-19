@@ -12,7 +12,8 @@ angular.module('myApp', [
     ])
     .config(['$routeProvider', function ($routeProvider) {
         $routeProvider.when('/googleMap', {templateUrl: 'partials/googleMap.html', controller: 'GoogleMapCtrl'});
-        $routeProvider.when('/openstreetMap', {templateUrl: 'partials/openstreetMap.html', controller: 'OpenstreetMapCtrl'});
+        $routeProvider.when('/openlayersMap', {templateUrl: 'partials/openlayersMap.html', controller: 'OpenlayersMapCtrl'});
+        $routeProvider.when('/mapquestMap', {templateUrl: 'partials/mapquestMap.html', controller: 'MapquestMapCtrl'});
         $routeProvider.when('/leafletMap', {templateUrl: 'partials/leafletMap.html', controller: 'LeafletMapCtrl'});
         $routeProvider.when('/esriMap', {templateUrl: 'partials/esriMap.html', controller: 'EsriMapCtrl'});
         $routeProvider.when('/compare', {templateUrl: 'partials/compare.html', controller: 'CompareCtrl'});

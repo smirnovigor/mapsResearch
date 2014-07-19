@@ -62,3 +62,19 @@ body {
     margin: 0;
     height: 100%;
 }
+.compare-table > tbody > tr:first-child > td{
+    width: 10%;
+}
+.unstyled
+{
+    list-style-type: none;
+}
+.color-green{
+    color: green;
+}
+.color-red{
+    color: red;
+}
+.color-orange{
+    color: orange;
+}
