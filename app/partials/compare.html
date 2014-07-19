@@ -1,0 +1,234 @@
+<h1>The Maps comparison</h1>
+
+<br/>
+
+<table id="compareTableId" class="compare-table table table-condensed table-bordered">
+    <thead>
+    <tr>
+        <th></th>
+        <th>Google Maps</th>
+        <th>Open Layers</th>
+        <th>Mapquest</th>
+        <th>Leaflet</th>
+        <th>ESRI(ArcGIS)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>
+            <h3>
+                <span style="display: block;" class="label label-default">
+                    <i class="pull-left glyphicon glyphicon-search"></i> Overview:
+                </span>
+            </h3>
+        </td>
+        <td>
+            <div>One of the best frameworks in its category (Yahoo Maps, Bing, etc.), especially in Israel. Maps of Israel have full functionality.</div>
+            <br/>
+            <div>Well documented, has rich API, tons of examples. Has a big community.</div>
+            <br/>
+            <div>Huge usage across the world (x100 than other maps)</div>
+        </td>
+        <td>
+            <div>Remarkably mature library that supports multiple projections and map server backends, geospatial data format reading and writing, event handling, and vector drawing. Based on OpenStreetMap (free resource) backend, but can use other backends as well (Google, Yahoo, Microsoft, ArcGIS). </div>
+            <br/>
+            <div><strong>Open Source</strong> that can be extended and customized, and easily debugged. Well documented, has good API and many examples. Has a very active community.</div>
+        </td>
+        <td>
+            <div>Old player on the market, provides Client, Server and Tile (Middleware Cache) map services, that can be used separately.</div>
+        </td>
+        <td>
+            <div>Lightweight JavaScript library(<strong>33KB</strong> of JS), that is based on OpenStreetMap (free resource) backend. Has good performance due to small amount of features, that can be increased by adding plugins from a constantly growing catalogue. </div>
+            <br/>
+            <div><strong>Open Source</strong> that can be extended, very simple to use, well documented, has a very active and growing community.</div>
+        </td>
+        <td>
+            <div>Esri's ArcGIS is a geographic information system (GIS) for working with maps and geographic information. It is used for: creating and using maps; compiling geographic data; analyzing mapped information; sharing and discovering geographic information; using maps and geographic information in a range of applications; and managing geographic information in a database.</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>
+                <span style="display: block;" class="label label-default">
+                    <i class="pull-left glyphicon glyphicon-cog"></i> Functionality:
+                </span>
+            </h3>
+            <h6>* useful for our project</h6>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Markers</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Street View</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Info Windows</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Direction</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Geocoding</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Animation</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Markers</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Street View</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Info Windows</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Direction</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Geocoding</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Animation</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Markers</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Street View</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Info Windows</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Direction</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Geocoding</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Animation</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Markers</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Street View</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Info Windows</div>
+            <div><i class="glyphicon glyphicon-exclamation-sign color-orange"></i> Direction+Plugin</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Geocoding</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Animation</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Markers</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Street View</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Info Windows</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Direction</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Geocoding</div>
+            <div><i class="glyphicon glyphicon-ok-circle color-green"></i> Geo Data Analyzer</div>
+            <div><i class="glyphicon glyphicon-remove-circle color-red"></i> Animation</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>
+                <span style="display: block;" class="label label-default">
+                    <i class="pull-left glyphicon glyphicon-book"></i> Languages:
+                </span>
+            </h3>
+        </td>
+        <td>Local language is default, but <strong>for Google users language preferences are used.</strong></td>
+        <td>Local language is default.</td>
+        <td>Local language is default.</td>
+        <td>Local language is default.</td>
+        <td>Local language is default.</td>
+    </tr>
+    <tr>
+        <td>
+            <h3>
+                <span style="display: block;" class="label label-default">
+                    <i class="pull-left glyphicon glyphicon-dashboard"></i> Usage Limits:
+                </span>
+            </h3>
+        </td>
+        <td>
+            <div><strong>Google Maps Javascript API: </strong>25,000 map loads per day for each service.</div>
+            <br/>
+            <div><strong>The Google Directions API: </strong>2,500 requests per day.</div>
+            <br/>
+            <div><strong>The Google Geocoding API: </strong>2,500 requests per day.</div>
+            <br/>
+            <div>Every 1,000<strong> extra </strong>map loads will have 0.5$ charge.</div>
+        </td>
+        <td>
+            <span><strong>No limit.</strong></span>
+        </td>
+        <td>
+            <div>Three kind of license is available: Enterprise Licensed Data(<strong>starting at $2,500</strong>), Community Licensed Data and Community Open Data.</div>
+            <br/>
+            <div><strong>Maps: </strong>no limit.</div>
+            <br/>
+            <div><strong>Directions: </strong>5,000 requests per day for community licensed data.<strong> No limit for open data.</strong></div>
+            <br/>
+            <div><strong>Geocoding: </strong>5,000 requests per day for community licensed data.<strong> No limit for open data.</strong></div>
+        </td>
+        <td>
+            <span><strong>No limit.</strong></span>
+        </td>
+        <td>
+            <span><strong>All services are chargeable.</strong></span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>
+                <span style="display: block;" class="label label-success">
+                    <i class="pull-left glyphicon glyphicon-plus"></i> PROS:
+                </span>
+            </h3>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Powerful services</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Street view</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Flexible and easy API</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Personalized map</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Google's product</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> 80% of required functionality is already implemented</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Familiar user experience</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Open source</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Good functionality</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Active community</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Client, Tile, Server less coupling</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Debuggable</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Powerful Services</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Has free layers</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Free and good Tile</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Open source</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Lightweight</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Growing community</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Client, Tile, Server less coupling</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Debuggable</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Powerful Services</div>
+            <div><i class="glyphicon glyphicon-thumbs-up color-green"></i> Wide functionality</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>
+                <span style="display: block;" class="label label-danger">
+                    <i class="pull-left glyphicon glyphicon-minus"></i> CONS:
+                </span>
+            </h3>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Limited free usage</div>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Black box</div>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Not debuggable</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Limited functionality</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Limited free usage</div>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Licensed products is a black box</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Simple functionality</div>
+        </td>
+        <td>
+            <div><i class="glyphicon glyphicon-thumbs-down color-red"></i> Too much functionality. For our project it's like shoot mosquitoes with a machine gun.</div>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<br/><br/><br/>
+
+<h1 class="page-header">Google Trends</h1>
+<iframe width="900" height="400" style="border: none; margin: 0% 10% auto;" src="//www.google.com/trends/fetchComponent?hl=en-US&q=google+maps,+openlayers,+mapquest,+Leaflet,+ESRI&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=900&h=400"></iframe>
+
+<h1 class="page-header">Conclusion <small>( There is two main options useful for our project )</small></h1>
+
+<div style="margin: 2% 3% auto;">
+    <h4>Rich functionality: </h4>
+    <p>In technical scope, <strong>Google maps</strong> is a winner. Great framework from Google that provide strong functionality and services, well documented, easy and intuitive API. The 80% of required functionality is already implemented in <a href="#/googleMap">this example</a>.</p>
+    <br/>
+    <h4>Free of charge: </h4>
+    <p>For free use <strong>OpenLayer</strong> is the best options. For simple functionality a <strong>lightweight Leaflet</strong> is preferable option too. These JS frameworks in combination with <strong>MapQuest Tile</strong> and <strong>OpenStreetMap</strong> map service give worthy alternative to Google Maps.</p>
+</div>
