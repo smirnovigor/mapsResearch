@@ -1,5 +1,10 @@
 ## Web maps frameworks research 
-based on angular-seed
+Small project, based on angular-seed, to compare existing maps frameworks. Frameworks to compare: 
+- Google Maps
+- Open Layers
+- Mapquest
+- Leaflet
+- ESRI(ArcGIS)
 
 ### Running the app during development
 
