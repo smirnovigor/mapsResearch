@@ -322,7 +322,7 @@ angular.module('myApp.directives', [])
                     var map = L.map(elem[0], mapOptions);
                     //var map = L.map('leafletMapsWrapper').setView([TLV_COORDINATES.longitude, TLV_COORDINATES.latitude], DEFAULT_ZOOM);
 
-                    L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
+                    L.tileLayer('http://{s}.tile.cloudmade.com/8ee2a50541944fb9bcedded5165f09d9/997/256/{z}/{x}/{y}.png', {
                         maxZoom: 18
                     }).addTo(map);
 
