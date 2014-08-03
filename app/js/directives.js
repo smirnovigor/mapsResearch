@@ -322,8 +322,13 @@ angular.module('myApp.directives', [])
                     var map = L.map(elem[0], mapOptions);
                     //var map = L.map('leafletMapsWrapper').setView([TLV_COORDINATES.longitude, TLV_COORDINATES.latitude], DEFAULT_ZOOM);
 
-                    L.tileLayer('http://{s}.tile.cloudmade.com/8ee2a50541944fb9bcedded5165f09d9/997/256/{z}/{x}/{y}.png', {
-                        maxZoom: 18
+//                    L.tileLayer('http://{s}.tile.cloudmade.com/8ee2a50541944fb9bcedded5165f09d9/997/256/{z}/{x}/{y}.png', {
+//                        maxZoom: 18
+//                    }).addTo(map);
+
+                    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                        maxZoom: 18,
+                        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                     }).addTo(map);
 
                     L.marker([TLV_COORDINATES.latitude, TLV_COORDINATES.longitude]).addTo(map)
